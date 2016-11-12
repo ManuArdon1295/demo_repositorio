@@ -11,4 +11,9 @@ public class ClaseA{
      z=0;
       codigo = "123";
    }
+   
+   public void Mensaje(){
+	   
+	   System.out.println("Hola Mundo!!");
+   }
 }
